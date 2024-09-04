@@ -1,2 +1,4 @@
 # transformers-from-scratch
-Learning about transformers by trying to implement them from scratch. Still a work-in-progress.
+Learning about transformers by trying to implement them from scratch. Still a work in progress.
+
+The images and diagrams are my own - feel free to use them.
