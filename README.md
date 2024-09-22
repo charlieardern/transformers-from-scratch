@@ -1,4 +1,4 @@
-# transformers-from-scratch
+# Transformers from Scratch
 Learning about transformers by trying to implement them from scratch.
 
 Currently implementing a model to translate English to French. Still a work in progress.
